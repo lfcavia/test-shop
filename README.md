@@ -4,7 +4,7 @@ This Ruby-based application simulates a vending machine interface where users ca
 
 * Developed in Ruby version 3.1.2p20
 * TDD with Rspec Ruby gem
-* Designed to be run in command line 
+* Designed to be run in command line
 
 ## Motivation
 
